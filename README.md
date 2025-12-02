@@ -1,36 +1,43 @@
-<h1 align="center">Hi, I'm Abdullоh 👋</h1>
-
+<!-- HEADER -->
+<h1 align="center">🚀 Abdulloh – Frontend Developer</h1>
 <p align="center">
-  Front-End Developer • HTML • CSS • JavaScript • React.js
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00F7FF&center=true&lines=Frontend+Developer;React+Developer;UI%2FUX+Lover;Always+Learning+New+Skills" />
 </p>
 
----
 
-## 🚀 About Me
-I am a Front-End Developer who enjoys building modern, fast and responsive websites.  
-I mainly work with **HTML, CSS, JavaScript and React.js**.
 
 ---
 
-## 🛠 Tech Stack
+<!-- ABOUT ME -->
+## 👨‍💻 About Me
+
+🔥 I’m a **Frontend Developer** who creates clean, modern and powerful web interfaces.  
+💡 Focused on **HTML, CSS, JavaScript, React.js**.  
+🚀 My mission: *To build beautiful and fast user interfaces that impress everyone.*  
+
+---
+
+<!-- CONNECT -->
+## 🌐 Connect with Me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="48" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" />
-  <img src="https://skillicons.dev/icons?i=js" height="48" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" />
+  <a href="https://linkedin.com/in/abdulloh (r.a) raimov" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="https://www.youtube.com/c/r.a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="45"/>
+  </a>
 </p>
 
 ---
 
-## 📍 Location
-- Uzbekistan
-- city:tashkent
+<!-- TECH STACK -->
+## 🛠 Tech Stack
 
- 
-## 💬 Contact
-- Telegram:**https://t.me/RaimovAbdulloh**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,vscode,git" height="60" />
+</p>
 
 
+<!-- FOOTER -->
+<h3 align="center">🔥 Keep Coding. Keep Growing. Keep Winning. 🔥</h3>

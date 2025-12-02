@@ -27,15 +27,10 @@ I mainly work with **HTML, CSS, JavaScript and React.js**.
 
 ## 📍 Location
 - Uzbekistan
+- city:tashkent
 
+ 
 ## 💬 Contact
-- Instagram: **your Instagram link**
+- Telegram:**https://t.me/RaimovAbdulloh**
 
----
 
-## 📊 GitHub Stats (optional)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150" />
-</p>

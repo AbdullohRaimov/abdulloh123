@@ -8,7 +8,6 @@
 <h3 align="center">A dedicated IT developer from Uzbekistan 💻</h3>
 
 <br/>
-
 <div align="center">
  🔭 Currently working on: **Mini backend and website projects**  
  🌱 Currently learning: **Python, Node.js, FastAPI, MongoDB**  

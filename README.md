@@ -23,7 +23,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://abdulloh-portfolio.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&ogoColor=white" />
+  </a>
+     <a href="https://abdulloh-portfolio.com" target="_blank">
+     <img src="https://img.shields.io/badge/Youtobe-red?style=for-the-badge&logo=youtobe&logoColor=white" />
   </a>
 </div>
 
